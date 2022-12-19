@@ -1,7 +1,7 @@
 import unittest
 import datetime
-import setup.course as c
-import system.timemanager as tm
+import MDSTimeManager.setup.course as c
+import MDSTimeManager.system.TimeManager as tm
 
 # Course 1
 Data533 = c.Course("Object Oriented Programming","Khalad Hasan","3",1)
